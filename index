@@ -1,9 +1,42 @@
 <html>
 <head>
-<title>Primmeira Página</title>
+<meta charset="UTF-8">
+<title>Primeira Página</title>
 </head>
-<body>
+<body font size=15>
 Começo da Página
 <h1>Página</h1>
+<h2>Página</h2>
+<h3>Página</h3>
+<a href="pagina2.html"><img src="setaesquerda.jpg" title="Pagina2" width=50 
+
+height=30>Página 2 </a>
+<center>
+<b><u><I>
+<font face="latin"size=20 color="blue">
+Este é o primeiro texto da página
+</font>
+</center>
+</b></u></i>
+<br/>
+<p>
+<p>
+<b><u><i>
+<font face="cooper"size=15 color="red">
+Este texto é o segundo da página
+</font>
+</b></u></i>
+<font face="cooper"size=5 color="green">
+<ol>Cidades
+<li>Campinas</li>
+<li>Hortolândia</li>
+<li>Valinhos</li>
+</ol>
+<ul>Estados
+<li>SP</li>
+<li>RJ</li>
+<li>RS</li>
+<ul/>
+</font>
 </body>
 </html>
